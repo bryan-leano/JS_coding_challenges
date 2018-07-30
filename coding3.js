@@ -25,3 +25,5 @@ var finalAmount = [bills[0] + tips[0],
                   bills[2] + tips[2]];
   
 console.log(finalAmount);
+
+/* many ways to do this */
